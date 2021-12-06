@@ -54,8 +54,8 @@
 
 ## The fine print
 
-*All programs created and licensed by Ka-Chain[[1](https://github.com/Mohammad-Omar-S/Ka-Chain/blob/main/COPYRIGHT)] are owned*
+*All programs created and licensed by Ka-Chain[[1](https://github.com/Mohammad-Omar-S/Ka-Chain-Public/blob/main/COPYRIGHT)] are owned*
 *by MOStudios and the organisation can browse, edit, create, and or delete*
-*files created by users - [2](https://github.com/Mohammad-Omar-S/Ka-Chain/blob/main/COPYRIGHT)*
+*files created by users - [2](https://github.com/Mohammad-Omar-S/Ka-Chain-Public/blob/main/COPYRIGHT)*
 
-*Terminology such as Ka-Chain and Koins are trademarks of MOStudios[[3](https://github.com/Mohammad-Omar-S/Ka-Chain/blob/main/COPYRIGHT)]*
+*Terminology such as Ka-Chain and Koins are trademarks of MOStudios[[3](https://github.com/Mohammad-Omar-S/Ka-Chain-Public/blob/main/COPYRIGHT)]*
