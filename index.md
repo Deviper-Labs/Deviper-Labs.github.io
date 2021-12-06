@@ -2,4 +2,4 @@
 ## (Mohammad-Omar-S)
 
 ### Contents
- - [Ka-Chain](https://github.com/Mohammad-Omar-S/Ka-Chain/)
+ - [Ka-Chain](https://Mohammad-Omar-S.github.io/Ka-Chain/)
