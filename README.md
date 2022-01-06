@@ -1,2 +1,2 @@
-# Mohammad-Omar-S.github.io
+# MOStudios-org.github.io
 My Github Page
