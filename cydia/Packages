@@ -1,8 +1,7 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
+Package: com.deviper-labs.package-one
+Version: 1.0.0
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Maintainer: Deviper-Labs <mohammad.omar.sobman@gmail.com>
 Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
 Size: 854
@@ -12,11 +11,10 @@ Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
+Package: com.deviper-labs.package-one
+Version: 1.0.0
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Maintainer: Deviper-Labs <mohammad.omar.sobman@gmail.com>
 Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
 Size: 860
