@@ -1,0 +1,15 @@
+Package: com.deviper-labs.sample-package
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Deviper-Labs <mohammad.omar.sobman@gmail.com>
+Filename: ./debs/com.deviper-labs.sample-package_1.0_iphoneos-arm.deb
+Size: 804
+MD5sum: bae679611c046d46c0509795dbac83ee
+SHA1: 66f65d22d60c32dc840dbbd908203dad18b7b83e
+SHA256: 1afe3aa6573d564df5cdd0007bfada004204362cf400639952f8b21e369293f6
+Section: Tweaks
+Description: This is a sample package.
+Author: Deviper-Labs <mohammad.omar.sobman@gmail.com>
+Depiction: https://mostudios-org.github.io/cydia/depictions/?p=com.deviper-labs.sample-package
+Name: Sample Package
+
